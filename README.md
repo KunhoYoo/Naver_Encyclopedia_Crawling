@@ -2,10 +2,10 @@
 **[Recapitulate]**<br>
 대량의 순수 한글 DB 필요로 인한 네이버 백과사전 소주제 단위 크롤링<br>
 
-**[Requiremnets]**
+**[Requiremnets]**<br>
  pip install tk<br>
  pip install requests<br>
- pip install pip install beautifulsoup4<br>
+ pip install beautifulsoup4<br>
  
  **[Detail]**<br>
  1. 순수 한글 DB 필요로하여 영문명 일괄 제외<br>
